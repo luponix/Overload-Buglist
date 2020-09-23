@@ -25,11 +25,7 @@
     user input or it swallows the userinput to detonate it on the server and keeps flying despite exploding on the client 
  
  # Projects to look into:
-  - 1. shifting the majority of the changes that olmod makes into the Overload assemblies
-    + reduces loading times
-    + fixes gsync
-    - time consuming
-    - mods are broken without extra attention
+
     
   - 2. finishing small overload guide, ask some people to write about how to use some of the weapons
     + help newcomers catch up with the knowledge of people that played this game for years
@@ -43,13 +39,13 @@
       3. Idea: Use the matches to calculate a player ranking and experiment with elo
       
   - 5. Wrap up the Autoorder mod:
-      1. Add Tomcatts ideas
-      2. Add Bens ideas
+      1. Add Tomcatts ideas DONE
+      2. Add Bens ideas   DONE
       3. Select on spawn
       4. Dont select after manual swap
-      5. Overwrite pre/next function
+      5. Overwrite pre/next function DONE
       6. Figure out the server bug that prevents to flawlessly change to the next highest missile
-         after the current one got shot empty
+         after the current one got shot empty DONE
          
    - 6. Add the Automap in multiplayer (main thing to figure out is how to change the controls)
        + make it a present for yoshi
@@ -61,4 +57,10 @@
    - 9. Replace team color in 2 team scenarios with enemy color and friendly color
    
    - 10.Check out how the Light code changed in the pre/after console release versions
+   
+   
+   - 11. [Pr] Add a Damage Overlay during Death to show the PlayerDamageRecords
+   
+   - 12. [Pr] Adjust Projectile Positions according to ping
+   
 
