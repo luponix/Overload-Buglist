@@ -7,6 +7,10 @@
   - Invisible Ships: Frequently in big Anarchies you will encounter invisible but hitbox posessing ships
   
   - occasional old missile symbol when the count is empty
+  
+  - super duplication is 100% reliable to pull off
+  
+  - rearview shows during loadout selection
     
 
 # Joystick mod bugs
@@ -20,6 +24,9 @@
 
 
  # Update and Improve
+  Olmod
+   1. Make it selectable wether the rearview should appear left or right
+   
   Auto Select
    1. AutoSelect should be disabled by default when no config is found
    2. The config should be profile dependant. how does olmod handle that in general ? should it be its own file ?
